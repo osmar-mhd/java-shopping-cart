@@ -1,2 +1,2 @@
 # Carrito-de-Compras
-Cliente-Servidor, Sockets, TCP, BD y Serialización
+Cliente-Servidor, Sockets, TCP, Base de Datos y Serialización
