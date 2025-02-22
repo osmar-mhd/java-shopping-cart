@@ -10,6 +10,9 @@ This repository contains a **Shopping Cart** system developed using **Java**. Th
 - **AES + Hash + RSA**.
 - **Maven**.
 - **MySQL**.
+- **WebSockets**.
+- **TCP Sockets**.
+- **Java Serialization & JSON**.
 
 ### 2. Frontend (Optional for Full Stack)
 - **React** → SPA (Single Page Application) to interact with the REST API.  
