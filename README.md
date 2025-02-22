@@ -1,4 +1,4 @@
-# 🛒 Shopping Cart System 🚀
+# Shopping Cart System
 
 This repository contains a **Shopping Cart** system developed using **Java**. The project follows a **RESTful API** architecture and supports **Full Stack** development.
 
